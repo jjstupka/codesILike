@@ -11,4 +11,4 @@ setInterval(() => {
         console.log(`Já curti ${likes} posts automaticamente!`);
     }
     arrow.parentElement.parentElement.click();
-}, 19000); */Tempo para curtidas. Lembre-se que o máximo são 400 curtidas por dia!*/
+}, 19000); /*Tempo para curtidas. Lembre-se que o máximo são 400 curtidas por dia!*/
